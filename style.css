@@ -61,16 +61,16 @@ a:hover {
 }
 
 .icone {
-    width: 100px; 
+    width: 95px; 
     height: auto; 
     border-radius: 10px; 
     padding: 5px; 
-    background-color: #000; 
+    background-color: #000;
 }
 
 .social-icon {
     width: 40px; 
-    height: 40px;
+    height: 40px;   
     margin-right: 8px; 
     vertical-align: middle; 
 }
